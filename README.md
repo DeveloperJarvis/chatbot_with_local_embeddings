@@ -167,3 +167,16 @@ GitHub: [https://github.com/DeveloperJarvis](https://github.com/DeveloperJarvis)
 ## Interview Summary (One Line)
 
 > A Python-based offline chatbot using rule-based logic and local embeddings with cosine similarity, demonstrating core NLP and vector math concepts without external ML frameworks.
+
+## 🏷️Creating tag
+
+```bash
+# 1. Check existing tags
+git tag
+# 2. Create a valid tag
+git tag -a v1.0.0 -m "Release version 1.0.0"
+# or lightweight tag
+git tag v1.0.0
+# push tag to remote
+git push origin v1.0.0
+```
