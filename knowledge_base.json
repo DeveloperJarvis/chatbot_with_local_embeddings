@@ -1,0 +1,192 @@
+{
+    "knowledge_base": [
+        {
+            "question": "What is Python?",
+            "answer": "Python is a high-level programming language known for its readability and simplicity."
+        },
+        {
+            "question": "What is a list in Python?",
+            "answer": "A list in Python is a mutable collection that can store multiple items in a single variable."
+        },
+        {
+            "question": "What is a tuple in Python?",
+            "answer": "A tuple is an immutable ordered collection of elements in Python."
+        },
+        {
+            "question": "What is a set in Python?",
+            "answer": "A set is an unordered collection of unique elements in Python."
+        },
+        {
+            "question": "What is a dictionary in Python?",
+            "answer": "A dictionary is a key-value data structure in Python that allows fast lookups."
+        },
+        {
+            "question": "What is a function in Python?",
+            "answer": "A function is a reusable block of code that performs a specific task."
+        },
+        {
+            "question": "What is a lambda function?",
+            "answer": "A lambda function is a small anonymous function defined using the lambda keyword."
+        },
+        {
+            "question": "What is list comprehension?",
+            "answer": "List comprehension provides a concise way to create lists using expressions."
+        },
+        {
+            "question": "What is a generator?",
+            "answer": "A generator is a function that yields values one at a time using the yield keyword."
+        },
+        {
+            "question": "What is an iterator?",
+            "answer": "An iterator is an object that allows traversal through a collection one element at a time."
+        },
+        {
+            "question": "What is exception handling?",
+            "answer": "Exception handling allows a program to handle runtime errors using try and except blocks."
+        },
+        {
+            "question": "What is a module in Python?",
+            "answer": "A module is a file containing Python code that can be imported and reused."
+        },
+        {
+            "question": "What is a package in Python?",
+            "answer": "A package is a collection of Python modules organized in directories."
+        },
+        {
+            "question": "What is pip?",
+            "answer": "pip is Python's package manager used to install and manage external libraries."
+        },
+        {
+            "question": "What is virtual environment?",
+            "answer": "A virtual environment isolates project dependencies from the system Python installation."
+        },
+        {
+            "question": "What is object oriented programming?",
+            "answer": "Object oriented programming is a paradigm based on objects that contain data and behavior."
+        },
+        {
+            "question": "What is a class?",
+            "answer": "A class is a blueprint for creating objects in Python."
+        },
+        {
+            "question": "What is an object?",
+            "answer": "An object is an instance of a class containing data and methods."
+        },
+        {
+            "question": "What is inheritance?",
+            "answer": "Inheritance allows a class to reuse and extend the behavior of another class."
+        },
+        {
+            "question": "What is polymorphism?",
+            "answer": "Polymorphism allows different objects to respond differently to the same method call."
+        },
+        {
+            "question": "What is encapsulation?",
+            "answer": "Encapsulation is the concept of bundling data and methods together and restricting access."
+        },
+        {
+            "question": "What is abstraction?",
+            "answer": "Abstraction hides implementation details and exposes only essential features."
+        },
+        {
+            "question": "What is multiple inheritance?",
+            "answer": "Multiple inheritance allows a class to inherit from more than one parent class."
+        },
+        {
+            "question": "What is method resolution order?",
+            "answer": "Method resolution order defines the order in which base classes are searched for methods."
+        },
+        {
+            "question": "What is the GIL?",
+            "answer": "The Global Interpreter Lock ensures that only one thread executes Python bytecode at a time."
+        },
+        {
+            "question": "What is multithreading?",
+            "answer": "Multithreading allows a program to run multiple threads concurrently."
+        },
+        {
+            "question": "What is multiprocessing?",
+            "answer": "Multiprocessing uses multiple processes to achieve parallel execution."
+        },
+        {
+            "question": "What is asynchronous programming?",
+            "answer": "Asynchronous programming allows tasks to run without blocking using async and await."
+        },
+        {
+            "question": "What is a coroutine?",
+            "answer": "A coroutine is a function that can be paused and resumed using async and await."
+        },
+        {
+            "question": "What is a decorator?",
+            "answer": "A decorator modifies the behavior of a function or class without changing its code."
+        },
+        {
+            "question": "What is recursion?",
+            "answer": "Recursion is a technique where a function calls itself to solve a problem."
+        },
+        {
+            "question": "What is time complexity?",
+            "answer": "Time complexity describes how an algorithm's runtime grows with input size."
+        },
+        {
+            "question": "What is space complexity?",
+            "answer": "Space complexity measures how much memory an algorithm uses."
+        },
+        {
+            "question": "What is a shallow copy?",
+            "answer": "A shallow copy duplicates references to objects instead of creating new ones."
+        },
+        {
+            "question": "What is a deep copy?",
+            "answer": "A deep copy creates independent copies of all nested objects."
+        },
+        {
+            "question": "What is slicing?",
+            "answer": "Slicing extracts a portion of a sequence using start, stop, and step values."
+        },
+        {
+            "question": "What is unpacking?",
+            "answer": "Unpacking assigns elements of a collection to multiple variables."
+        },
+        {
+            "question": "What is type hinting?",
+            "answer": "Type hinting provides optional type information for variables and functions."
+        },
+        {
+            "question": "What is duck typing?",
+            "answer": "Duck typing focuses on object behavior rather than explicit type."
+        },
+        {
+            "question": "What is serialization?",
+            "answer": "Serialization converts an object into a format suitable for storage or transmission."
+        },
+        {
+            "question": "What is deserialization?",
+            "answer": "Deserialization reconstructs an object from serialized data."
+        },
+        {
+            "question": "What is JSON?",
+            "answer": "JSON is a lightweight data-interchange format commonly used in Python."
+        },
+        {
+            "question": "What is logging?",
+            "answer": "Logging records program events for debugging and monitoring."
+        },
+        {
+            "question": "What is unit testing?",
+            "answer": "Unit testing verifies individual components of a program in isolation."
+        },
+        {
+            "question": "What is pytest?",
+            "answer": "pytest is a testing framework that simplifies writing and running tests."
+        },
+        {
+            "question": "What is garbage collection?",
+            "answer": "Garbage collection automatically frees unused memory in Python."
+        },
+        {
+            "question": "What is mutable and immutable?",
+            "answer": "Mutable objects can change after creation, while immutable objects cannot."
+        }
+    ]
+}
